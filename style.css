@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+}
+
+h1 { 
+    font-family: verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h2 {
+    font-family: verdana, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
+
+.comingsoon {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mainvideo {
+    background-color: black;
+    text-align: center;
+}
+
+.iphone {
+    text-align: center;
+    height: 350px;
+    width: auto;
+}
+
+.places {
+    font-family: verdana, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.camp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cell {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: auto;
+}
